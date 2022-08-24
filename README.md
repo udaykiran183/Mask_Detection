@@ -28,6 +28,6 @@ Dataset can be downloaded from the link given in ***dataset.txt*** file.
 ![](vis/6out1.png)
 ![](vis/6out2.png)
 #### Unseen images
-![](vis/7unseen.png)
+##![](vis/7unseen.png)
 ### Image at various filters of given convolution layer
-![](vis/8diff_conv_layers.png)
+#![](vis/8diff_conv_layers.png)
