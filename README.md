@@ -11,8 +11,7 @@ Dataset can be downloaded from the link given in ***dataset.txt*** file.
 - Project is done in python using Tensorflow ML library (To know more about TensorFlow visit [TensorFlow](https://www.tensorflow.org/). 
 
 ## Visualization
-### Train data visualization using Tensorboard
-![Train Data Vis](vis/1train_data.png)
+ 
 ### Example of Epoch run with the help of Tensorboard hparams
 ![Epoch run example](vis/2run.png)
 ### Parameters visualisation using Tensorboard
@@ -27,7 +26,4 @@ Dataset can be downloaded from the link given in ***dataset.txt*** file.
 #### Train images
 ![](vis/6out1.png)
 ![](vis/6out2.png)
-#### Unseen images
-##![](vis/7unseen.png)
-### Image at various filters of given convolution layer
-#![](vis/8diff_conv_layers.png)
+ 
